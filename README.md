@@ -2,7 +2,7 @@
 
 An example/simulator device for spectrometer, used for illutration of web APIs.
 
-For a web GUI, visit [here](https://thing-control-panel.hololinked.dev/#https://examples.hololinked.dev/simulations/spectrometer/resources/wot-td)
+For a web GUI, visit [here](https://control-panel.hololinked.dev/#https://examples.hololinked.dev/simulations/spectrometer/resources/wot-td)
 and for server only visit [here](https://examples.hololinked.dev/simulations/spectrometer/resources/wot-td).
 
 Docker image is available, just do: <br />
