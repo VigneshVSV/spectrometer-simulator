@@ -1,10 +1,9 @@
 # Spectrometer Simulator
 
-An example for an spectrometer simulator device.
+An example/simulator device for spectrometer, used for illutration of web APIs.
 
 For a web GUI, visit [here](https://thing-control-panel.hololinked.dev/#https://examples.hololinked.dev/simulations/spectrometer/resources/wot-td)
 and for server only visit [here](https://examples.hololinked.dev/simulations/spectrometer/resources/wot-td).
-PyQt GUI is a standalone application that can be run on a local machine.
 
 Docker image is available, just do: <br />
 `docker pull ghcr.io/vigneshvsv/spectrometer-simulator:main` <br />
