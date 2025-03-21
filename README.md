@@ -18,9 +18,7 @@ Following environment variables are necessary in a docker container:
 
 These variables are necessary for the forms to be correctly generated in a [Thing Description](https://www.w3.org/TR/wot-thing-description11/) otherwise the device will still work, but the forms will be wrong. These environment variables are not necessary if you are running the server outside docker. 
 
-
-
-### To run
+To run as script:
 
 `pip install numpy hololinked`
 
